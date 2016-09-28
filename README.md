@@ -10,15 +10,12 @@ javac ISU.java
 java ISU test 
 >>> String is not unique.
 
-javac ISU.java
 java ISU tes 
 >>> String is unique.
 
-javac ISU.java
 java ISU tesla 
 >>> String is unique.
 
-javac ISU.java
 java ISU tessla 
 >>> String is not unique.
 
