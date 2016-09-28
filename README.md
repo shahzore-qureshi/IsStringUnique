@@ -6,20 +6,20 @@ Type in the following commands in a terminal:
 (note: make sure that asterisk * is escaped via quotes)
 
 ```java
-javac ICM.java
-java ICM test 
+javac ISU.java
+java ISU test 
 >>> String is not unique.
 
-javac ICM.java
-java ICM tes 
+javac ISU.java
+java ISU tes 
 >>> String is unique.
 
-javac ICM.java
-java ICM tesla 
+javac ISU.java
+java ISU tesla 
 >>> String is unique.
 
-javac ICM.java
-java ICM tessla 
+javac ISU.java
+java ISU tessla 
 >>> String is not unique.
 
 ```
